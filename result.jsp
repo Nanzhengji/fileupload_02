@@ -9,6 +9,7 @@
 <%
 	String message =(String) request.getAttribute("message");
 %>
+//显示文件上传的结果
 ${message}
 </body>
 </html>
